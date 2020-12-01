@@ -17,8 +17,14 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.giftech.cov-id",
+      "buildNumber": "1.0.0"
     },
+    "android": {
+      "package": "com.giftech.cov-id",
+      "versionCode": 1
+    }, 
     "web": {
       "favicon": "./assets/favicon.png"
     }
